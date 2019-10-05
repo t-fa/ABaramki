@@ -72,6 +72,33 @@ a:hover {
     right: 30px;
 }
 
+.standup {
+    width: 100%;
+    height: 400px;
+}
+
+.writing {
+    width: 100%;
+}
+
+.videos {
+    text-align: left;
+    position: relative;
+}
+
+.video-title {
+    
+}
+
+.video-caption {
+    font-size: 1.2em;
+}
+
+.video {
+    float: left;
+    margin: 10px;
+}
+
 p span {
     font-size: 2em;
 }
