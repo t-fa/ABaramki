@@ -96,14 +96,36 @@ a:hover {
 
 .video {
     float: left;
-    margin: 10px;
+    padding: 5px;
+}
+
+.video iframe {
+    padding: 5px;
+    box-shadow: 0px 0px 5px gray;
 }
 
 p span {
     font-size: 2em;
 }
 
+.small {
+    font-size: 0.84em;
+}
+
 .webseries-bio {
     width: 50%;
     float: left;
+}
+
+.contact-form input {
+    margin: 5px auto;
+    display: block;
+    width: 50%;
+}
+
+.contact-form textarea {
+    margin: 5px auto;
+    display: block;
+    width: 50%;
+    height: 100px;
 }
